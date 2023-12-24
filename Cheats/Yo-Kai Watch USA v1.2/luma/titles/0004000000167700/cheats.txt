@@ -25,11 +25,6 @@ D2000000 00000000
 [Inf Use Item v1.2]
 00288BA8 E1A00000
 
-[Always Befriend Yo-kai - Food v1.2]
-00488C2C E1A00000
-00488C3C E3A00000
-00488C40 E1A00000
-
 [Get Experience Multiplier After Battle v1.2]
 00401518 E0810100
 
