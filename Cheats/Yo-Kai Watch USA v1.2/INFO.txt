@@ -1,0 +1,5 @@
+[Get Experience Multiplier After Battle v1.2]
+00401518 E0810XX0
+XX=00:x1  08:x2  10:x4  18:x8  20:x16  28:x32  30:x64
+
+All credits go to @ymyn on gbatemp.net
